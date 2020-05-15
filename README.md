@@ -33,3 +33,4 @@
 
 * Launch ChromeDriver using the command ```chromedriver --url-base=/wd/hub``` and configure the module to use ChromeDriver port.
 
+* Run all the tests using ```vendor\bin\codecept run --steps``` command.
