@@ -4,7 +4,6 @@ namespace Page\Acceptance;
 class LoginPage
 {
     // include url of current page
-    public static $URL = '';
 
     public static $pageTitle='Log in to your account';
     public static $logo='//img[@src="/assets/image/logo/logo.svg"]';
