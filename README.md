@@ -21,10 +21,12 @@
 
 * Email address and phone number are stored in ```.env``` file which is configured to the project through ```codeception.yml``` file
 
-* I have used chrome browser to run the tests which can be changed in ```tests\acceptance.suite.yml file```
+* I have used chrome browser to run the tests which can be changed in ```tests\acceptance.suite.yml``` file
 
 # Steps to run the tests
 
-* Clone the project to your computer by running the command ""
+* Clone the project to your computer by running the command "https://github.com/SelvaKumarSrinivasan/PaymentSite.git"
 
 * Change the values in .env file to update valid/invalid email address or Phone number.
+
+* Add the url and browser details in ```tests\acceptance.suite.yml``` file
